@@ -109,20 +109,20 @@ Each submission is scored, and the dominant imbalance is displayed with a recomm
 
 
 *   **Signup:**
-![Signup Screenshot](./screenshots/Signup.png)
+![Signup Screenshot](./Screenshots/Signup.png)
 
 
 *   **Login:**
-![Login Screenshot](./screenshots/Login.png)
+![Login Screenshot](./Screenshots/Login.png)
 
 
 *   **Dashboard:**
-![Dashboard Screenshot](./screenshots/Dashboard.png)
+![Dashboard Screenshot](./Screenshots/Dashboard.png)
 
 
     
 *   **Health History:**
-![History Screenshot](./screenshots/History.png)
+![History Screenshot](./Screenshots/History.png)
     
     
 
